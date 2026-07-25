@@ -10,4 +10,3 @@
 > * **Experience:** Former **Software Development Engineer in Test (SDET)** Intern at **Paycom**
 > * **Leadership:** Student Tutor for **Athletic Academic Services** (Calculus & Computer Science)
 > * **Technical Interests:** Artificial Intelligence, Neural Networks, and Algorithm Optimization
-> * **Current Goal:** Actively seeking a **Summer 2026 Software Engineering Internship**
